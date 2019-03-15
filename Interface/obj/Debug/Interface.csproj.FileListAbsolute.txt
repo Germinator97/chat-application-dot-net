@@ -1,0 +1,5 @@
+P:\Visual Studio\Chat\Interface\bin\Debug\Interface.dll
+P:\Visual Studio\Chat\Interface\bin\Debug\Interface.pdb
+P:\Visual Studio\Chat\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+P:\Visual Studio\Chat\Interface\obj\Debug\Interface.dll
+P:\Visual Studio\Chat\Interface\obj\Debug\Interface.pdb

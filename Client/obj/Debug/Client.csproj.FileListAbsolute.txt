@@ -1,0 +1,15 @@
+P:\Visual Studio\Chat\Client\bin\Debug\Client.exe.config
+P:\Visual Studio\Chat\Client\bin\Debug\Client.exe
+P:\Visual Studio\Chat\Client\bin\Debug\Client.pdb
+P:\Visual Studio\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+P:\Visual Studio\Chat\Client\obj\Debug\Client.baml
+P:\Visual Studio\Chat\Client\obj\Debug\Client.g.cs
+P:\Visual Studio\Chat\Client\obj\Debug\App.g.cs
+P:\Visual Studio\Chat\Client\obj\Debug\Client_MarkupCompile.cache
+P:\Visual Studio\Chat\Client\obj\Debug\Client.g.resources
+P:\Visual Studio\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+P:\Visual Studio\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+P:\Visual Studio\Chat\Client\obj\Debug\Client.exe
+P:\Visual Studio\Chat\Client\obj\Debug\Client.pdb
+P:\Visual Studio\Chat\Client\bin\Debug\Interface.dll
+P:\Visual Studio\Chat\Client\bin\Debug\Interface.pdb

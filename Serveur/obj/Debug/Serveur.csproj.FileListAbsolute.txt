@@ -1,0 +1,8 @@
+P:\Visual Studio\Chat\Serveur\bin\Debug\Serveur.exe.config
+P:\Visual Studio\Chat\Serveur\obj\Debug\Serveur.csprojResolveAssemblyReference.cache
+P:\Visual Studio\Chat\Serveur\bin\Debug\Serveur.exe
+P:\Visual Studio\Chat\Serveur\bin\Debug\Serveur.pdb
+P:\Visual Studio\Chat\Serveur\bin\Debug\Interface.dll
+P:\Visual Studio\Chat\Serveur\bin\Debug\Interface.pdb
+P:\Visual Studio\Chat\Serveur\obj\Debug\Serveur.exe
+P:\Visual Studio\Chat\Serveur\obj\Debug\Serveur.pdb
